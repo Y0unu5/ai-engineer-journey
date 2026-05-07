@@ -1,0 +1,21 @@
+Null Pointer Exceptions
+Exception Handling with Method Overriding
+Regex
+Java Regex (Regular Expressions) allows pattern matching and text manipulation using the java.util.regex package. It is powerful for validating, searching, and replacing strings based on specific patterns.
+
+Introduction
+Matcher Class
+Character Class
+Quantifiers
+Memory Allocation
+Java Memory Allocation refers to how memory is assigned to variables, objects, and classes during program execution. It involves stack and heap memory, with the JVM managing allocation and garbage collection automatically.
+
+Java Memory Management
+How Java Objects Stored in Memory?
+Types of Memory Areas Allocated by JVM
+Stack vs Heap Memory Allocation
+Garbage Collection
+Types of JVM Garbage Collectors
+Memory Leaks
+Collections
+Java Collections provide a framework for storing and manipulating groups of objects efficiently. It includes interfaces like List, Set, and Map, along with classes like ArrayList, HashSet, and HashMap.
