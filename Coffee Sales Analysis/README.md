@@ -25,7 +25,7 @@
 # ⚙️ Installation
 To replicate this project install the dependencies by running:  
 
-- https://github.com/vishuuu3/Coffee-Sales-Analysis-Report.git
+
 - cd CoffeeSales
 - pip install -r Requirements.txt
 
