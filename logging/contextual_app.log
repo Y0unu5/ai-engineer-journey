@@ -1,0 +1,15 @@
+2026-05-18 12:23:33,269 - contextual_logger - DEBUG - This is a debug message -test - 12
+2026-05-18 12:23:33,271 - contextual_logger - INFO - This is an info message -test - 13
+2026-05-18 12:23:33,272 - contextual_logger - WARNING - This is a warning message -test - 14
+2026-05-18 12:23:33,273 - contextual_logger - ERROR - This is an error message -test - 15
+2026-05-18 12:23:33,273 - contextual_logger - CRITICAL - This is a critical message -test - 16
+2026-05-18 12:26:21,975 - contextual_logger - DEBUG - This is a debug message -test - 13
+2026-05-18 12:26:21,975 - contextual_logger - DEBUG - This is a debug message -test - 13 - 101 - 2222
+2026-05-18 12:26:21,978 - contextual_logger - INFO - This is an info message -test - 14
+2026-05-18 12:26:21,978 - contextual_logger - INFO - This is an info message -test - 14 - 101 - 2222
+2026-05-18 12:26:21,979 - contextual_logger - WARNING - This is a warning message -test - 15
+2026-05-18 12:26:21,979 - contextual_logger - WARNING - This is a warning message -test - 15 - 101 - 2222
+2026-05-18 12:26:21,980 - contextual_logger - ERROR - This is an error message -test - 16
+2026-05-18 12:26:21,980 - contextual_logger - ERROR - This is an error message -test - 16 - 101 - 2222
+2026-05-18 12:26:21,980 - contextual_logger - CRITICAL - This is a critical message -test - 17
+2026-05-18 12:26:21,980 - contextual_logger - CRITICAL - This is a critical message -test - 17 - 101 - 2222
